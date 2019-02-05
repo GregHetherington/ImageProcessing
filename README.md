@@ -2,7 +2,7 @@
 #### By: Greg Hetherington, Created on Feb 5, 2019
 
 ### About
-This script will take in a 8*bit grayscale image and apply 3 different
+This script will take in a 8-bit grayscale image and apply 3 different
 contrast enhancement algorithms. The script will create 3 images(one
 for each algorithm) and output them in the same directory as the input
 image.

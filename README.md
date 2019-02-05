@@ -1,6 +1,5 @@
 # Image Processing Assignment 1
-#### By: Greg Hetherington
-#### Feb 6, 2019
+#### By: Greg Hetherington, Created on Feb 5, 2019
 
 ### About
 This script will take in a 8*bit grayscale image and apply 3 different
